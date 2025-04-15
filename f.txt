@@ -1,4 +1,4 @@
 hello
 second line
 third line
-fourth line
+The fourth line is from the feature branch.
